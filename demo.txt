@@ -1,1 +1,1 @@
-text up
+This file is for the git tutorial for devOps from simplilearn
